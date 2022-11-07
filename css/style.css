@@ -1,0 +1,16 @@
+#background {
+    background: repeat;
+    background-color: aqua;
+    height: 50%;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+  }
+
+
+#container {
+    width: 50%;
+    margin: 0 auto;
+}
