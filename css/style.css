@@ -1,8 +1,11 @@
 header {
-    background-image: url("\img\pattern.png");
+    background-image:url('img/pattern.png');
     background-size: cover;
     background-color: rgb(80,164,252);
     background-repeat: repeat;
+    height: 80px;
+    width: 100%;
+    
 }
 
 * {
