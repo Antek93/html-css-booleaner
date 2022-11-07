@@ -45,21 +45,17 @@ body {
 
 .didascalia.immagini {
     background-size: cover;
-    font-size: small;
-    font-style: italic;
+    
     
 }
 
-#tim {
-    top: 50%;
-    left: 50%;
-    margin-top: 0%;
+
+p {
+    font-family: 'arial sans serif';
+    font-size: 20px;
 
 }
 
-#lee {
-    top: 50%;
-    right: 50%;
-    margin-top: 0%;
-    
+#evidenziatore {
+    background-color: yellow;
 }
