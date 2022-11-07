@@ -1,20 +1,21 @@
 header {
-    background-image:url('img/pattern.png');
-    background-size: cover;
+    background-image: url('/img/pattern.png');
+    background-size: contain;
     background-color: rgb(80,164,252);
     background-repeat: repeat;
     height: 80px;
-    width: 100%;
+    width: 50%;
+    margin: auto;
     
 }
+
 
 * {
     box-sizing: border-box;
     margin: 0;
   }
 
-
-#container {
-    width: 100%;
-    margin: 0 auto;
+main {
+    width: 50%;
+    margin: auto;
 }
