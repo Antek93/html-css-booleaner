@@ -40,3 +40,24 @@ body {
   font-size: 14px;
   color: gray;;
 }
+
+/* Immagini inizio pagina */
+
+.contenitore.immagini {
+    position: relative;
+}
+
+#tim {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: 0%;
+
+}
+
+#lee {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    margin-top: 0%;
+}
