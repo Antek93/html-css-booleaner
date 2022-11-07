@@ -1,7 +1,9 @@
 #background {
-    background: repeat;
-    background-color: aqua;
-    height: 50%;
+    display: block;
+    background-size: auto;
+    background-repeat: repeat-x;
+    background-color: rgb(80,164,252);
+    height: 150px;
 }
 
 * {
@@ -11,6 +13,6 @@
 
 
 #container {
-    width: 50%;
+    width: 100%;
     margin: 0 auto;
 }
