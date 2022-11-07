@@ -59,3 +59,51 @@ p {
 #evidenziatore {
     background-color: yellow;
 }
+
+ul {
+    margin-left: 0%;
+    font-family: 'arial sans serif';
+    font-size: 20px;
+    padding: 0px 0px 0px 20px;
+}
+
+/* Tutto lo style della tabella */
+
+table {
+    width: 100%;
+    font-size: 20px;
+    text-align: left;
+    border-spacing: 0px;
+}
+
+#align {
+    width: 33%;
+    height: 100px;
+
+}
+
+.head.table {
+    background-color: rgba(26,170,230,255);
+    text-align: left, justify;
+}
+
+.body.table.one {
+    background-color: rgba(178,230,242,255);
+}
+
+.body.table.two {
+    background-color: rgba(255,255,255,255)
+}
+
+.foot.background {
+    background-color: rgba(178,230,242,255);
+}
+
+/* Fine style tabella */
+
+#disclaimer {
+    font-size: 20px;
+    color: gray;
+
+
+}
