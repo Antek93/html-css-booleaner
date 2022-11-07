@@ -1,21 +1,25 @@
-header {
-    background-image: url('/img/pattern.png');
-    background-size: contain;
+.pattern {
+    background: url("../img/pattern.png");
     background-color: rgb(80,164,252);
+    background-size: auto 150px;
     background-repeat: repeat;
     height: 80px;
-    width: 50%;
-    margin: auto;
-    
+    padding-top: 5px;
+
 }
 
+#logo {
+    height: 70px;
+    margin: auto;
+    padding-top: 30px;
+}
 
 * {
     box-sizing: border-box;
     margin: 0;
   }
 
-main {
+body {
     width: 50%;
     margin: auto;
 }
