@@ -1,9 +1,8 @@
-#background {
-    display: block;
-    background-size: auto;
-    background-repeat: repeat-x;
+header {
+    background-image: url("\img\pattern.png");
+    background-size: cover;
     background-color: rgb(80,164,252);
-    height: 150px;
+    background-repeat: repeat;
 }
 
 * {
