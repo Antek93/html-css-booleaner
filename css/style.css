@@ -107,3 +107,34 @@ table {
 
 
 }
+
+/* Immagini finali  */
+
+#raccoglitore {
+    position: relative;
+}
+
+#graph {
+   display: block;
+
+}
+
+#monitor {
+   display: block;
+   
+}
+
+#prima-img {
+ color: white;
+ font-size: 40px;
+ position: absolute;
+ margin-top: 2%;
+
+}
+
+#seconda-img {
+    color: white;
+    font-size: 35px;
+    position: absolute;
+    margin-top: -43%;
+}
