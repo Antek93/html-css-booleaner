@@ -1,29 +1,23 @@
-Ciao Ragazzi,
-esercizio di oggi The Booleaner
-nome repo html-css-booleaner
-Esercizio:
+Questo progetto è un esercizio front-end realizzato con HTML e CSS, che consiste nella replica di una pagina editoriale in stile giornalistico. L’obiettivo è stato quello di migliorare la struttura semantica dell’HTML, organizzare correttamente i contenuti e applicare stili CSS chiari e coerenti. Durante il lavoro ho imparato a gestire il layout attraverso il box model, utilizzare classi riutilizzabili, curare tipografia, colori e spaziature e mantenere il codice ordinato e leggibile. Il progetto mi ha aiutato anche a sviluppare un approccio più preciso nella ricostruzione di un design partendo da un modello, migliorando la capacità di analizzare i dettagli e tradurli in CSS.
 
-Riproducete il il layout in allegato utilizzando l'approccio visto in classe.
+Tecnologie utilizzate:
 
-Fate un piccolo blocco alla volta aggiungendo ad ogni step le regole css.
+HTML5
+CSS3
+Struttura semantica dell’HTML
+Box model e proprietà di layout
+Gestione di tipografia, colori e spaziature
+Classi CSS riutilizzabili
 
-Come sempre aiutatevi con le slide e tutto ciò che avete a disposizione.
+//ENG
 
-Attezione:
-Nel caso non vi venga in mente come spaziare il contenuto interno all'header non preoccupatevi, passate oltre! Potreste aver bisogno di una regola css che avete usato durante il fundamental... :sorridente:
-Bonus
+This project is a front-end exercise built using HTML and CSS, focused on replicating an editorial-style web page. The main goal was to improve my understanding of semantic HTML, organize content properly, and apply clean and consistent CSS styling. Throughout the work, I learned how to structure layouts using the box model, create reusable CSS classes, manage typography, spacing, and colors, and maintain well-organized and readable code. The project also helped me develop a more precise approach to rebuilding a layout from a visual reference, enhancing my ability to analyze design details and translate them into CSS.
 
-Partendo dallo stesso HTML, create un secondo file CSS per crearne una versione diversa.
-Si può fare? Alla grande! https://stylestage.dev/
-Questa versione avrà il corpo pagina più stretto e centrato. Occhio all'header il cui background rimane invece a tutta pagina.
-Consegna
+Technologies used:
 
-Riproducete il layout dell'immagine allegata utilizzando ciò che abbiamo visto stamattina aiutandovi con le slide, video e documentazione.
-Come l'esercizio scorso e d'ora in avanti sempre, faremo questo:
-1. Create una nuova repo github per l'esercizio di oggi, con il nome indicato come nome repo e clonatela tramite vscode scegliendo una cartella sul vostro pc;
-2. All'interno della cartella del repo, create il file index.html (sarà la prima pagina ad aprirsi in un sito).
-Attenzione: per i nomi dei file usate sempre lettere minuscole e trattini al posto degli spazi :);
-3. All'interno della cartella del repo, create una sottocartella img nella quale inserirete le immagini necessarie.
-4. Sempre nella cartella repo create la cartella css nella quale inserirete creandolo/i il/i vostri file css.
-Ricordatevi di pushare di tanto in tanto per consegnare il vostro lavoro in modo incrementale.
-Buon lavoro!
+HTML5
+CSS3
+Semantic HTML structure
+Box model and layout techniques
+Typography, colors and spacing management
+Reusable CSS classes
