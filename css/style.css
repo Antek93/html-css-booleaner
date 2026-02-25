@@ -1,140 +1,128 @@
 /* Descrizione header */
 .pattern {
-    background: url("../img/pattern.png");
-    background-color: rgb(80,164,252);
-    background-size: auto 150px;
-    background-repeat: repeat;
-    height: 80px;
-    padding-top: 5px;
-
+  background: url('../img/pattern.png');
+  background-color: rgb(80, 164, 252);
+  background-size: auto 150px;
+  background-repeat: repeat;
+  height: 80px;
+  padding-top: 5px;
 }
 
 #logo {
-    height: 70px;
-    margin: auto;
-    padding-top: 30px;
+  height: 70px;
+  margin: auto;
+  padding-top: 30px;
 }
 
 /* Fine descrizione header  */
 
 * {
-    box-sizing: border-box;
-    margin: 0;
-  }
-
-body {
-    width: 1010px;
-    margin: auto;
+  box-sizing: border-box;
+  margin: 0;
 }
 
+body {
+  width: 1010px;
+  margin: auto;
+}
 
 /* Specifiche colore sottotitoli e data  */
 .sottotitolo.blue {
-    color: blue;
+  color: blue;
 }
 
 .sottotitolo.grigio {
-    color: gray;
+  color: gray;
 }
 #data {
   font-size: 14px;
-  color: gray;;
+  color: gray;
 }
 
 /* Immagini inizio pagina */
 
 .didascalia.immagini {
-    background-size: cover;
-    
-    
+  background-size: cover;
 }
 
-
 p {
-    font-family: 'arial sans serif';
-    font-size: 20px;
-
+  font-family: 'arial sans serif';
+  font-size: 20px;
 }
 
 #evidenziatore {
-    background-color: yellow;
+  background-color: yellow;
 }
 
 ul {
-    margin-left: 0%;
-    font-family: 'arial sans serif';
-    font-size: 20px;
-    padding: 0px 0px 0px 20px;
+  margin-left: 0%;
+  font-family: 'arial sans serif';
+  font-size: 20px;
+  padding: 0px 0px 0px 20px;
 }
 
 /* Tutto lo style della tabella */
 
 table {
-    width: 100%;
-    font-size: 20px;
-    text-align: left;
-    border-spacing: 0px;
+  width: 100%;
+  font-size: 20px;
+  text-align: left;
+  border-spacing: 0px;
 }
 
 #align {
-    width: 33%;
-    height: 100px;
-
+  width: 33%;
+  height: 100px;
 }
 
 .head.table {
-    background-color: rgba(26,170,230,255);
-    text-align: left, justify;
+  background-color: rgba(26, 170, 230, 255);
+  text-align: left, justify;
 }
 
 .body.table.one {
-    background-color: rgba(178,230,242,255);
+  background-color: rgba(178, 230, 242, 255);
 }
 
 .body.table.two {
-    background-color: rgba(255,255,255,255)
+  background-color: rgba(255, 255, 255, 255);
 }
 
 .foot.background {
-    background-color: rgba(178,230,242,255);
+  background-color: rgba(178, 230, 242, 255);
 }
 
 /* Fine style tabella */
 
 #disclaimer {
-    font-size: 20px;
-    color: gray;
-
-
+  font-size: 20px;
+  color: gray;
 }
 
 /* Immagini finali  */
 
 #raccoglitore {
-    position: relative;
+  position: relative;
 }
 
 #graph {
-   display: block;
-
+  display: block;
 }
 
 #monitor {
-   display: block;
-   
+  display: block;
 }
 
 #prima-img {
-    color: white;
-    font-size: 35px;
-    position: absolute;
-    margin-top: 2%;
-
+  color: white;
+  font-size: 35px;
+  position: absolute;
+  margin-top: 2%;
 }
 
 #seconda-img {
-    color: white;
-    font-size: 35px;
-    position: absolute;
-    margin-top: -43%;
+  color: white;
+  font-size: 35px;
+  position: absolute;
+  margin-top: -43%;
 }
